@@ -1,6 +1,6 @@
 "use client";
 
-import SearchPage from '@/components/SearchBar';
+import SearchPage from "@/components/SearchBar";
 
 export default function Home() {
   return (
