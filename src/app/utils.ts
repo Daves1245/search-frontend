@@ -6,7 +6,7 @@ class ZeroEntropyClient {
   static getClient(): ZeroEntropy {
     if (!this.instance) {
       return (this.instance = new ZeroEntropy({
-        apiKey: "",
+        apiKey: "ze_h5qlSrLzs7wDNMtA",
       }));
     }
     return this.instance;
